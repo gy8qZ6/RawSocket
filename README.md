@@ -1,2 +1,2 @@
-# Test
-this is just a test
+# So this is github, huh?
+Kinda stupid..
